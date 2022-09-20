@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hl1dDvRNKfpj5dd8lfiyxnJL/pZMHMdSfip033iDNN8C88s/vueFxgyyGH+VFT9UiPt8eEQbHef42aY7NfJCvA==",
+  "success": true,
+  "projectFilePath": "/home/isaac/git/dotnetConsoleApps/calculator/calculator.csproj",
+  "expectedPackageFiles": [
+    "/home/isaac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
