@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "habit-tracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\isaac\\Documents\\git\\dotnetConsoleApps\\habit-tracker\\habit-tracker\\"
+    }
+  }
+}

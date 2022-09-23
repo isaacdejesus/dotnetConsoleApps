@@ -1,0 +1,1 @@
+C:\Users\isaac\Documents\git\dotnetConsoleApps\mathgameMauiWindows\mathgameMauiWindows\mathgameMauiWindows.csproj;x64
