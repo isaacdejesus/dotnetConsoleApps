@@ -1,4 +1,3 @@
-/home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.csproj.AssemblyReference.cache
 /home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.GeneratedMSBuildEditorConfig.editorconfig
 /home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.AssemblyInfoInputs.cache
 /home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.AssemblyInfo.cs
@@ -7,9 +6,10 @@
 /home/isaac/git/dotnetConsoleApps/mathgame/bin/Debug/net6.0/mathgame.deps.json
 /home/isaac/git/dotnetConsoleApps/mathgame/bin/Debug/net6.0/mathgame.runtimeconfig.json
 /home/isaac/git/dotnetConsoleApps/mathgame/bin/Debug/net6.0/mathgame.dll
-/home/isaac/git/dotnetConsoleApps/mathgame/bin/Debug/net6.0/ref/mathgame.dll
 /home/isaac/git/dotnetConsoleApps/mathgame/bin/Debug/net6.0/mathgame.pdb
 /home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.dll
 /home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/ref/mathgame.dll
 /home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.pdb
 /home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.genruntimeconfig.cache
+/home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/mathgame.sourcelink.json
+/home/isaac/git/dotnetConsoleApps/mathgame/obj/Debug/net6.0/refint/mathgame.dll

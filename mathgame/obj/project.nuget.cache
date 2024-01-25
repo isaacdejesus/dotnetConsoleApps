@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SCXRrNXg4TDNEEDCkAx2Hvbh17ln6baMaYAkZphZUryRnO+5CYUoIyrCuyjmnXZBeQ9/sSWvMOLP9WwUNZIxzQ==",
+  "dgSpecHash": "NFQA8fTDTAx061Ruf/Qp5VJ/P18+NiSIye/CovhdV6H5mqeyGiFF4iNs71bHIOu3cXxYrVAfmIQ5W7ZPoozDlQ==",
   "success": true,
   "projectFilePath": "/home/isaac/git/dotnetConsoleApps/mathgame/mathgame.csproj",
   "expectedPackageFiles": [
-    "/home/isaac/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+    "/home/isaac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

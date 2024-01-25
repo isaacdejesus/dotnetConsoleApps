@@ -1,0 +1,6 @@
+/home/isaac/git/dotnetConsoleApps/coding-tracker/coding-tracker/obj/Debug/net8.0/coding-tracker.csproj.AssemblyReference.cache
+/home/isaac/git/dotnetConsoleApps/coding-tracker/coding-tracker/obj/Debug/net8.0/coding-tracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaac/git/dotnetConsoleApps/coding-tracker/coding-tracker/obj/Debug/net8.0/coding-tracker.AssemblyInfoInputs.cache
+/home/isaac/git/dotnetConsoleApps/coding-tracker/coding-tracker/obj/Debug/net8.0/coding-tracker.AssemblyInfo.cs
+/home/isaac/git/dotnetConsoleApps/coding-tracker/coding-tracker/obj/Debug/net8.0/coding-tracker.csproj.CoreCompileInputs.cache
+/home/isaac/git/dotnetConsoleApps/coding-tracker/coding-tracker/obj/Debug/net8.0/coding-tracker.sourcelink.json

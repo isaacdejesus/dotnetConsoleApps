@@ -1,16 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "xtcPQDk+qhZA6B6wXOhzCxkGPvMVJrXlfzduBKpAE1JyvcoB7isVmO/3QQkoDIBZGvKErWt7O349hjfGAr977A==",
+  "dgSpecHash": "LAXN4a/l+8kT0r4J35Cd2GD5h2xruZ/0pBKn3u812HWyVkR/YUfh1/bBjXbuuA3rniv50Rw/wD0TesXBb4GX9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaac\\Documents\\git\\dotnetConsoleApps\\habit-tracker\\habit-tracker\\habit-tracker.csproj",
+  "projectFilePath": "/home/isaac/git/dotnetConsoleApps/habit-tracker/habit-tracker/habit-tracker.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.data.sqlite\\6.0.9\\microsoft.data.sqlite.6.0.9.nupkg.sha512",
-    "C:\\Users\\isaac\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
-    "C:\\Users\\isaac\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
-    "C:\\Users\\isaac\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
-    "C:\\Users\\isaac\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
-    "C:\\Users\\isaac\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
-    "C:\\Users\\isaac\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "/home/isaac/.nuget/packages/microsoft.data.sqlite/8.0.1/microsoft.data.sqlite.8.0.1.nupkg.sha512",
+    "/home/isaac/.nuget/packages/microsoft.data.sqlite.core/8.0.1/microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
+    "/home/isaac/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/isaac/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/home/isaac/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/isaac/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/isaac/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/isaac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

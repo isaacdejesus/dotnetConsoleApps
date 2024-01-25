@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dat6p+tC3oizo2xD19u18zVSyNUmxYrAS+ewzQyBPznGId2Pg2Nss0r/djTG4C2geiBheGKA8Q1f8VeXzXFffA==",
+  "dgSpecHash": "S+faKbfP6VbggKQJh34FMrX7nhc1ewMSwo67qcMlzTIvIhKYg6EKTsS50aM8J3dM7B3OUJb5gWgBs2C/xrJA6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isaac\\Documents\\git\\dotnetConsoleApps\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "/home/isaac/git/dotnetConsoleApps/Calculator/Calculator/Calculator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\isaac\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "/home/isaac/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/isaac/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

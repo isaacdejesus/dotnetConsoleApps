@@ -1,0 +1,12 @@
+Upgrade projects to run on a different version of .NET
+======================================================
+First install the upgrade assistant
+===================================
+-> dotnet tool install -g upgrade-assistant
+-> dotnet tool update -g upgrade-assistant
+-----------------------------------
+Upgrade project
+===================================
+Navigate to project folder
+-> upgrade-assistant upgrade
+Select .NET version to upgrade to
